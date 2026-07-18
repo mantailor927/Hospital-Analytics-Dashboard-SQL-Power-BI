@@ -100,7 +100,12 @@ The dashboard includes:
 ### SQL Query Examples
 
 
-<img width="708" height="641" alt="top three revenue-generating doctors within each department" src="https://github.com/user-attachments/assets/b8dc45af-1fa1-4466-8476-0c741d716d02" />
+<img width="1159" height="884" alt="image" src="https://github.com/user-attachments/assets/35509c63-baa3-4791-8fab-0c4718bf0f97" />
+<img width="704" height="459" alt="Department wise Total revenue by Percentage" src="https://github.com/user-attachments/assets/c826b41b-2a17-4e2a-b904-91ce4b348523" />
+<img width="703" height="329" alt="patients who never schedule an appointment" src="https://github.com/user-attachments/assets/e1415e42-b2fe-4235-92d3-0a67521cecd7" />
+<img width="717" height="504" alt="Top Doctors by Appointments" src="https://github.com/user-attachments/assets/5d79e75d-977d-409c-824d-1b6976e6b2ae" />
+<img width="699" height="579" alt="Total_Revenue by Doctors" src="https://github.com/user-attachments/assets/db454d12-3612-4b5c-8078-461c4166b2b4" />
+
 
 
 
