@@ -99,7 +99,9 @@ The dashboard includes:
 
 ### SQL Query Examples
 
-<img width="1296" height="803" alt="Data Modeling image" src="https://github.com/user-attachments/assets/b7059ccd-ae12-4d13-b2b9-af5688bdad21" />
+
+<img width="708" height="641" alt="top three revenue-generating doctors within each department" src="https://github.com/user-attachments/assets/b8dc45af-1fa1-4466-8476-0c741d716d02" />
+
 
 
 ---
