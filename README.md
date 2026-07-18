@@ -100,7 +100,6 @@ The dashboard includes:
 ### SQL Query Examples
 
 
-<img width="1159" height="884" alt="image" src="https://github.com/user-attachments/assets/35509c63-baa3-4791-8fab-0c4718bf0f97" />
 <img width="704" height="459" alt="Department wise Total revenue by Percentage" src="https://github.com/user-attachments/assets/c826b41b-2a17-4e2a-b904-91ce4b348523" />
 <img width="703" height="329" alt="patients who never schedule an appointment" src="https://github.com/user-attachments/assets/e1415e42-b2fe-4235-92d3-0a67521cecd7" />
 <img width="717" height="504" alt="Top Doctors by Appointments" src="https://github.com/user-attachments/assets/5d79e75d-977d-409c-824d-1b6976e6b2ae" />
