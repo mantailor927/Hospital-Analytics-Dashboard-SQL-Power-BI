@@ -89,15 +89,18 @@ The dashboard includes:
 
 ### Dashboard
 
-(Add your dashboard screenshot here)
+<img width="1281" height="730" alt="DeshBoard image" src="https://github.com/user-attachments/assets/c7b988f1-f1db-4f78-9ef7-184e5f456305" />
+
 
 ### Data Model
 
-(Add your data model screenshot here)
+<img width="1920" height="1080" alt="Full Data Modeling image" src="https://github.com/user-attachments/assets/b5089ea6-092e-4352-840a-4c249e3a2ff9" />
+
 
 ### SQL Query Examples
 
-(Add a few SQL query screenshots here)
+<img width="1296" height="803" alt="Data Modeling image" src="https://github.com/user-attachments/assets/b7059ccd-ae12-4d13-b2b9-af5688bdad21" />
+
 
 ---
 
